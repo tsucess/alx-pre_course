@@ -1,0 +1,8 @@
+git clone
+git add .
+git commit -m 'Commit message'
+git push
+git branch BRANCHNAME
+git switch BRANCHNAME
+git status
+git pull
